@@ -11,7 +11,7 @@ public class ArreglosIrregulares {
 	 */
 
 	public static void main(String[] args) {
-		
+		//DEFINIENDO EL ARREGLO
 		int arreglo[][] = new int[4][];
 		
 		arreglo[0] = new int[1];
